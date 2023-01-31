@@ -2,5 +2,12 @@
 
 <div align="center">
   <h1>lgmacedo</h1>
-  <h3>Full Stack Development & Control and Automation Engineering</h3><br>
+  <h3>Software Engineer & Control and Automation Engineering</h3><br>
 </div>
+
+## A bit about me
+- 💻 I’m currently on my way to become a Full Stack Developer
+- 📚 I’m also an undergraduate in Control and Automation Engineering from UFMG
+- 💬 Ask me about how excited I am for all the new tech I've been learning
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am now trying to learn French
