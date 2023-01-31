@@ -32,7 +32,8 @@
 <br/>
 
 ### Contact me:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][(https://www.linkedin.com/in/lucas-macedo-3b0374207/)]
+[<img align="left" alt="Lucas Macedo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
+[linkedin]: https://www.linkedin.com/in/lucas-macedo-3b0374207/
