@@ -37,4 +37,4 @@
 
 <br/>
 
-[linkedin]: https://www.linkedin.com/in/lucas-macedo-3b0374207/
+[linkedin]: https://www.linkedin.com/in/lgmacedo
