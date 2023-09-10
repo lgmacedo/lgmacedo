@@ -9,7 +9,6 @@
 - 💻 I’m a Full Stack Developer
 - 📚 I’m also an undergraduate in Control and Automation Engineering from UFMG
 - 💬 Ask me about how excited I am for the new tech I've been learning, like TypeScript and Nest.js
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am now trying to learn French
 
 ### Languages and Tools:
