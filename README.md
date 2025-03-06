@@ -2,14 +2,8 @@
 
 <div align="center">
   <h1>Lucas Macedo</h1>
-  <h3>Software Engineer & Control and Automation Engineering</h3><br>
+  <h3>Software Engineer</h3><br>
 </div>
-
-## A bit about me
-- 💻 I’m a Full Stack Developer
-- 📚 I’m also an undergraduate in Control and Automation Engineering from UFMG
-- 💬 Ask me about how excited I am for the new tech I've been learning, like TypeScript and Nest.js
-- ⚡ Fun fact: I am now trying to learn French
 
 ### Languages and Tools:
 
